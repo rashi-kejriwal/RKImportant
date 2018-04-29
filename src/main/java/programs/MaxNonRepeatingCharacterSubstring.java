@@ -1,6 +1,9 @@
 package programs;
 
 public class MaxNonRepeatingCharacterSubstring {
+
+
+
     static final int NO_OF_CHARS = 256;
 
     static int longestUniqueSubsttr(String str)
@@ -12,15 +15,12 @@ public class MaxNonRepeatingCharacterSubstring {
         int i;
         int visited[] = new int[NO_OF_CHARS];
 
-        /* Initialize the visited array as -1, -1 is
-         used to indicate that character has not been
-         visited yet. */
+        /* Initialize the visited array as -1, -1 is used to indicate that character has not been visited yet. */
         for (i = 0; i < NO_OF_CHARS; i++) {
             visited[i] = -1;
         }
 
-        /* Mark first character as visited by storing the
-             index of first   character in visited array. */
+        /* Mark first character as visited by storing the index of first   character in visited array. */
         visited[str.charAt(0)] = 0;
 
         /* Start from the second character. First character is
@@ -63,7 +63,12 @@ public class MaxNonRepeatingCharacterSubstring {
         return max_len;
     }
 
-    /* Driver program to test above function */
+
+
+
+
+
+
     public static void main(String[] args)
     {
         String str = "ABDEFGABEF";

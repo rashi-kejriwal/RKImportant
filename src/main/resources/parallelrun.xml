@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="core-module">
+
+    <listeners>
+        <listener class-name="testNg.testNgListner"></listener>
+    </listeners>
+
+    <parameter name="browser" value="firefox"></parameter>
+    <test name="parallel test" thread-count="4" parallel="classes">
+        <classes>
+            <class name="testNg.C1"></class>
+            <class name="testNg.C2"></class>
+        </classes>
+    </test>
+    <test name="parallel test2" thread-count="4" parallel="classes">
+        <classes>
+            <class name="testNg.C1"></class>
+            <class name="testNg.C2"></class>
+        </classes>
+    </test>
+</suite>

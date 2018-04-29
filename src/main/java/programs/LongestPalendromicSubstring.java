@@ -1,19 +1,19 @@
 package programs;
 
 public class LongestPalendromicSubstring {
+
     // A utility function to print a substring str[low..high]
     static void printSubStr(String str, int low, int high) {
+
         System.out.println(str.substring(low, high + 1));
     }
 
-    // This function prints the longest palindrome substring
-    // of str[].
+    // This function prints the longest palindrome substring of str[].
     // It also returns the length of the longest palindrome
     static int longestPalSubstr(String str) {
         int n = str.length();   // get length of input string
 
-        // table[i][j] will be false if substring str[i..j]
-        // is not palindrome.
+        // table[i][j] will be false if substring str[i..j] is not palindrome.
         // Else table[i][j] will be true
         boolean table[][] = new boolean[n][n];
 
@@ -32,8 +32,7 @@ public class LongestPalendromicSubstring {
             }
         }
 
-        // Check for lengths greater than 2. k is length
-        // of substring
+        // Check for lengths greater than 2. k is length of substring
         for (int k = 3; k <= n; ++k) {
 
             // Fix the starting index
