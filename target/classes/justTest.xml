@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="core-module1" parallel="true" thread-count="10">
+
+    <listeners>
+        <listener class-name="testNg.testNgListner"></listener>
+    </listeners>
+
+    <parameter name="browser" value="firefox"></parameter>
+    <test name="smokeTest">
+        <groups>
+        <run>
+            <include name="smoke" />
+        </run>
+        </groups>
+        <classes>
+            <class name="selenium.SeleniumTests"></class>
+            <class name="selenium.DatabaseTesting"></class>
+        </classes>
+    </test>
+</suite>
