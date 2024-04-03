@@ -1,5 +1,6 @@
 package selenium;
 
+
 import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
@@ -9,6 +10,7 @@ import org.openqa.selenium.support.ui.*;
 import org.testng.annotations.Test;
 
 import javax.swing.*;
+import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.NoSuchElementException;
@@ -112,24 +114,24 @@ public class SeleniumTests {
 
         //wait
 
-        driver.manage().timeouts().implicitlyWait(10, SECONDS);  //implicit wait. Selenium that we would like it to wait for a certain amount of time before throwing an exception
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));  //implicit wait. Selenium that we would like it to wait for a certain amount of time before throwing an exception
 
 
         //fluent wait
-        Wait wait = new FluentWait(driver)
+        Wait<WebDriver> wait = new FluentWait<WebDriver>(driver)
 
-                .withTimeout(30, SECONDS)
+                .withTimeout(Duration.ofSeconds(30))
 
-                .pollingEvery(5, SECONDS)
+                .pollingEvery(Duration.ofSeconds(5))
 
                 .ignoring(NoSuchElementException.class);
 
         //explicit wait
-//        WebDriverWait explicitwait=new WebDriverWait(driver,10);
-//          WebElement ele = explicitwait.until(ExpectedConditions.visibilityOf(driver.findElement(By.id("sss"))));
+        WebDriverWait explicitwait=new WebDriverWait(driver,Duration.ofSeconds(10));
+        explicitwait.until(ExpectedConditions.elementToBeClickable(By.partialLinkText("linkvalue")));
 
-        WebDriverWait wait1 = new WebDriverWait(driver, 10);
-//        WebElement element11 = wait1.until(ExpectedConditions.elementToBeClickable(By.id("someid")));
+        WebDriverWait wait1 = new WebDriverWait(driver, Duration.ofSeconds(10));
+       WebElement element11 = wait1.until(ExpectedConditions.elementToBeClickable(By.id("someid")));
 
 
         //WindowHandles

@@ -5,32 +5,149 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9172338-31c6-4159-893f-54e30a2421af" name="Default" comment="zz">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practiseTests/RegexExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiseTests/RegexExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practiseTests/SubclassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiseTests/SubclassB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practiseTests/SubclassC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiseTests/SubclassC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practiseTests/SuperA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiseTests/SuperA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practiseTests/interfaceA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiseTests/interfaceA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practiseTests/sprinklrtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiseTests/sprinklrtest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programs/CountDistinctInKSizeWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/CountDistinctInKSizeWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programs/FirstNonReapeatingchar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/FirstNonReapeatingchar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programs/GFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/GFG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programs/LongestConsecutiveSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/LongestConsecutiveSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programs/LongestPalendromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/LongestPalendromicSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programs/MaxNonRepeatingCharacterSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/MaxNonRepeatingCharacterSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programs/MaxOfAllSubarrayOfSizeK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/MaxOfAllSubarrayOfSizeK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programs/MinBracketReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/MinBracketReversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programs/MirrorTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/MirrorTrees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programs/PalindromeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/PalindromeLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programs/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/Permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programs/ReverseListInGroupsOfK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/ReverseListInGroupsOfK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programs/RunLengthEncoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/RunLengthEncoding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programs/TripletSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/TripletSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/CalendarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/SingleTonDesign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/SingleTonDesign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testNg/C1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testNg/C1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testNg/C2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testNg/C2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/parallelrun.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/parallelrun.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dev_failsafe_failsafe_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_28_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_events_1_28_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_28_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_28_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_extension_incubator_1_28_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_28_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_28_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_28_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_28_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_28_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_28_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_28_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_semconv_1_28_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v117_4_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v118_4_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v119_4_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_manager_4_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programs/twoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_14_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_os_4_15_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_15_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_15_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_15_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_15_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_15_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_15_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_15_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_15_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RKImportant.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RKImportant.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/SeleniumTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/SeleniumTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructures/BST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/BSTNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructures/BSTNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/DoubleEndedQueueImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructures/DoubleEndedQueueImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/DynamicQueueImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructures/DynamicQueueImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/Dynamicstack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructures/Dynamicstack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/MyGenericsStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructures/MyGenericsStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/QueueImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructures/QueueImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/SinglyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructures/SinglyLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructures/SinglyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/Stacks1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructures/Stacks1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/TreeTraversal$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructures/TreeTraversal$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/TreeTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructures/TreeTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/doublyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructures/doublyLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/doublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructures/doublyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practiseTests/BigBasketTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiseTests/BigBasketTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practiseTests/RegexExample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiseTests/RegexExample1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practiseTests/SubclassB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiseTests/SubclassB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practiseTests/SubclassC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiseTests/SubclassC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practiseTests/SuperA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiseTests/SuperA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practiseTests/interfaceA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiseTests/interfaceA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practiseTests/sprinklrtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiseTests/sprinklrtest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/ArrayRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/ArrayRotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/CountDistinctInKSizeWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/CountDistinctInKSizeWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/DuplicateWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/DuplicateWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/FirstNonReapeatingchar$CountIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/FirstNonReapeatingchar$CountIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/FirstNonReapeatingchar$GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/FirstNonReapeatingchar$GFG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/FirstNonReapeatingchar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/FirstNonReapeatingchar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/GFG$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/GFG$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/GFG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/JavaCollections$Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/JavaCollections$Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/JavaCollections.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/JavaCollections.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/Knonrepeating.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/Knonrepeating.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/LongestConsecutiveSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/LongestConsecutiveSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/LongestPalendromicSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/LongestPalendromicSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/MaxNonRepeatingCharacterSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/MaxNonRepeatingCharacterSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/MaxOccuringChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/MaxOccuringChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/MaxOfAllSubarrayOfSizeK.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/MaxOfAllSubarrayOfSizeK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/MaxSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/MaxSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/MinBracketReversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/MinBracketReversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/MirrorTrees$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/MirrorTrees$BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/MirrorTrees$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/MirrorTrees$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/MirrorTrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/MirrorTrees.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/NegativeSubarrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/NegativeSubarrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/PalindromeLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/PalindromeLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/PalindromeLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/PalindromeLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/Permutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/ReverseListInGroupsOfK$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/ReverseListInGroupsOfK$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/ReverseListInGroupsOfK.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/ReverseListInGroupsOfK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/Reversewords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/Reversewords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/RunLengthEncoding.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/RunLengthEncoding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/SecondMostFrequestChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/SecondMostFrequestChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/SmallestWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/SmallestWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/SubSet_sum_problem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/SubSet_sum_problem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/TripletSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/TripletSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/UnionIntersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/UnionIntersection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/UnionIntersectionSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/UnionIntersectionSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/anagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/Employee$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/Employee$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/Employee$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/Employee$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/Employee$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/Employee$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/EmployeeComparatorByIdAndName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/EmployeeComparatorByIdAndName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/GenericValueComparator$ValueComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/GenericValueComparator$ValueComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/GenericValueComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/GenericValueComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/JavaObjectSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/JavaObjectSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/SortBasedOnNoOfOccurences.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/SortBasedOnNoOfOccurences.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/ValueComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/comparatorExamples/ValueComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/getPairCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/getPairCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/randInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/randInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/rotate90Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/rotate90Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/programs/subsetSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programs/subsetSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/restapi/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/restapi/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/restapi/GenericToFromGson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/restapi/GenericToFromGson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/restapi/JsonReaderWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/restapi/JsonReaderWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/restapi/RestApiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/restapi/RestApiTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/CalendarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/CalendarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/DatabaseTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/DatabaseTesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/RetryFailedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/RetryFailedTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/SeleniumTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/SeleniumTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/SingleTonDesign.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/SingleTonDesign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/browsermobproxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/browsermobproxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/scenariorunner$DryRunSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/scenariorunner$DryRunSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/scenariorunner$RunParallelSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/scenariorunner$RunParallelSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/scenariorunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/scenariorunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/takescreenshot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/takescreenshot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testNg/C1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testNg/C1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testNg/C2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testNg/C2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testNg/TestAnnotations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testNg/TestAnnotations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testNg/commonDataProviderClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testNg/commonDataProviderClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testNg/testNgListner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testNg/testNgListner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,16 +344,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "/Users/rashikejriwal/Desktop/code_repo/RKImportant",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rashikejriwal/Desktop/code_repo/RKImportant&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.LongestPalendromicSubstring">
+}</component>
+  <component name="RunManager" selected="Application.anagrams">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -260,6 +378,20 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.anagrams" />
+      <module name="RKImportant" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -329,6 +461,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.anagrams" />
         <item itemvalue="Application.LongestPalendromicSubstring" />
         <item itemvalue="Maven.RKImportant [clean,validate,compile]" />
         <item itemvalue="TestNG./Users/rashikejriwal/Downloads/RKImportant/src/main/resources/parallelrun.xml" />
